@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "5 Things you need to know about B12"
+title:  "Animal Agriculture"
 date:   2016-01-30 09:11:03
 description: Phasellus hendrerit. Pellent aliquet nibh nec urna. In nis aliquet vel, dapibus id,mattis.
-thumbnail: NUTRITIONAL-SUPPLEMENTS.png
-categories: health
+thumbnail: Animal-Agriculture.jpg
+categories: facts
 
 # Information for the author block
-author: Nina Petropoulos
+author: Shriya
 ---
 
 If this is your first time using Jekyll, don't be scared! Installing and setting up this particular theme is very, very simple. I'll walk you through it.
